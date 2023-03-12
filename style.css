@@ -2,4 +2,5 @@ body{
     background-attachment: fixed;
     background-color: aquamarine;
     box-shadow: inset;
+    overflow-x: hidden;
 }
