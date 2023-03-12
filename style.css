@@ -3,4 +3,5 @@ body{
     background-color: aquamarine;
     box-shadow: inset;
     overflow-x: hidden;
+    padding: 0%;
 }
